@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexandreklotz
+- 👋 Hi, I’m @alexandreklotz, i'm currently learning software development !
 - 👀 I’m interested in hacking, IT Security, javascript, java, spring, frameworks, python, in short anything related to software development/hacking/IT Security
 - 🌱 I’m currently learning java/javascript/spring boot/python
 - 💞️ I’m looking to collaborate on anything that can help me improve/learn
