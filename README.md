@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandreklotz, i'm currently learning software development !
 - 👀 I’m interested in hacking, IT Security, java, spring, python, in short anything related to software development/hacking/IT Security
-- 🌱 I’m currently learning java/spring boot/python
+- 🌱 I’m currently learning java/spring boot/python/javascript/angular...
 - 💞️ I’m looking to collaborate on anything that can help me improve/learn
 - 📫 How to reach me => alexandre.klotz@yahoo.fr
 
